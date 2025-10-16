@@ -213,14 +213,6 @@ This project uses GitHub Actions for automated testing and deployment:
 | `ALGORITHM`                   | Algorithm for JWT                |
 | `ACCESS_TOKEN_EXPIRE_MINUTES` | Token expiration time in minutes |
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
-```
-
-```
-
-## 👨‍💻 Author
-
-COT_WORLD: A passionate software developer who loves building scalable and efficient applications. Connect with me on [LinkedIn](https://www.linkedin.com/in/hardik-chaudhary/).
+## Screenshots
+<img width="1920" height="1080" alt="Screenshot 2025-10-16 125731" src="https://github.com/user-attachments/assets/18326aa9-449e-4a77-be7c-db22a4a9335b" />
+<img width="1916" height="1026" alt="Screenshot 2025-10-16 125750" src="https://github.com/user-attachments/assets/697d4a2a-6a8a-4cfa-bbc1-f0ef09baab3d" />
