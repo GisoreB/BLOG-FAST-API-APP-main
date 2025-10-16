@@ -1,4 +1,4 @@
-# FAST-API-APP
+# BLOG-FAST-API-APP
 
 A modern, scalable, and production-ready FastAPI application designed to manage users, posts, and votes with high efficiency. This project leverages best practices in API development, incorporating automated testing, continuous integration, and continuous deployment to ensure reliability and maintainability. It demonstrates a robust architecture for building high-performance APIs, with a focus on security, containerization, and cloud deployment. The application is optimized for real-world use cases, ensuring seamless scalability and ease of maintenance.
 
